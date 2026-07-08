@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 400
+slug  : the-eight-seams-8
+seal  : f7f20f621adf4ed98a3f57de101160d44ba052ba13a7045d3a7dabb49dff3462
+prev  : bb0b2286607d607a301cf9688169f4f1723b7bbc9fa7d65baf75e0c6e87542db
+link  : edf551b8b379713b2c5d02d8ff2764d9d8a720758131eee7b9c82ae6d1c2198f
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
